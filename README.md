@@ -1,3 +1,5 @@
+# PLEASE open CMD in windows as ADMINISTRATOR first
+
 # Windows-Long-Path
 if you are trying to install long files links and windows does not allow you and you get this error as example 
 Installing collected packages: tensorflow-intel, tensorflow
